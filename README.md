@@ -19,7 +19,7 @@ Jesse Sachs
 
 Noteworthy projects:
 
-(1) Twentyone - a game of blackjack that implements basically every C# object oriented programming concept]
+(1) Twentyone - a game of blackjack that implements basically every C# object oriented programming concept
 
 (2) Calculator - a javascript calculator web application
 
