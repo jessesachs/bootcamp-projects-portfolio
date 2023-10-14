@@ -1,0 +1,14 @@
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\net6.0\ShippingQuoteApp.exe
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\net6.0\ShippingQuoteApp.deps.json
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\net6.0\ShippingQuoteApp.runtimeconfig.json
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\net6.0\ShippingQuoteApp.dll
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\net6.0\ShippingQuoteApp.pdb
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.AssemblyInfoInputs.cache
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.AssemblyInfo.cs
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.dll
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\refint\ShippingQuoteApp.dll
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.pdb
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ShippingQuoteApp.genruntimeconfig.cache
+C:\Users\jesse\Desktop\Basic_C#_Programs\acme accounting\newShippingQuote\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\net6.0\ref\ShippingQuoteApp.dll

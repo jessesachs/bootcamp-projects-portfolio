@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script> <!--up to date Google hosted jQuery API-->
+</head>
+
+
+<script>
+        $(document).ready(function(){ //jQuery function that loads when the html file is ready
+            $('html').append ( //function adds entire body to this html document
+
+                "<body>\
+                    <div id='container'>\
+                            <div id='inner'>\
+                                <h1>Basic jQuery</h1>\
+                                <p id='1'>Paragraph 1 </p>\
+                                <p id='2'>Paragraph 2 </p>\
+                                <p id='3'>Paragraph 3 </p>\
+                            </div>\
+                    </div>\
+                </body>"
+
+            );
+        
+            $('#2').css({"color" : "red"}) //function makes just the second <p> in the above <body> to color red
+
+            $("#3").click(function() { //when third paragraph gets clicked on...
+                    $("h1").hide().fadeOut(); //the header fades out and disapears completely!
+            });
+
+            $( "p" ).click(function() { //console.log to tell us when a paragraph gets clicked on
+            console.log( "You clicked a paragraph!" );
+            });
+
+        });
+
+
+</script> <!--ends script-->
+</html>
